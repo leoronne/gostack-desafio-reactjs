@@ -18,6 +18,10 @@ div li {
   align-items: center;
 }
 
+div li p + p {
+  margin-left: 10px;
+}
+
 div li + li {
   margin-top: 15px;
 }
